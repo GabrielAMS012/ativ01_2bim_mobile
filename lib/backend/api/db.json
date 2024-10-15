@@ -1,0 +1,28 @@
+{
+  "transacoes": [
+    {
+      "id": "1",
+      "valor": 500,
+      "tipo": "Credito",
+      "nome": "Gabriel"
+    },
+    {
+      "id": "2",
+      "valor": 500,
+      "tipo": "Debito",
+      "nome": "Teste"
+    },
+    {
+      "id": "3",
+      "valor": 500,
+      "tipo": "Credito",
+      "nome": "AAAAAA"
+    },
+    {
+      "id": "4",
+      "valor": 52,
+      "tipo": "Credito",
+      "nome": "Teste Gabriel"
+    }
+  ]
+}
